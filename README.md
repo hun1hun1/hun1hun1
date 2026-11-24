@@ -22,14 +22,14 @@
 
 ---
 
-## English
+# English
 
 I'm preparing for a career in game client programming.
 I primarily use C++ and develop games with Unity and Unreal Engine.
 
-### Featured Project
+## Featured Project
 
-#### [D&N](https://github.com/hun1hun1/Unity_ProjectDN)
+### [D&N](https://github.com/hun1hun1/Unity_ProjectDN)
 
 **Unity · C#** · A 2D deckbuilding roguelike prototype built around two decks, Dream and Nightmare.
 
@@ -39,7 +39,7 @@ I primarily use C++ and develop games with Unity and Unreal Engine.
 
 [Checkpoint and resume system](https://github.com/hun1hun1/Unity_ProjectDN/blob/main/docs/RunCheckpoints.md)
 
-### Study Notes
+## Study Notes
 
 - [TIL](https://github.com/hun1hun1/TIL) — Algorithm study notes
 - [C++ Coding Test](https://github.com/hun1hun1/CPP_CODING_TEST) — Coding problem solutions in C++
